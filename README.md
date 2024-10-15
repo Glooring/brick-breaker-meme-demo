@@ -2,7 +2,7 @@
 
 ## Demo
 
-Play the demo on Vercel using the following link: [Brick Breaker Meme - Demo](https://your-vercel-demo-link.vercel.app)
+Play the demo on Vercel using the following link: [Brick Breaker Meme - Demo](https://brick-breaker-meme-demo.vercel.app/)
 
 ---
 
